@@ -197,14 +197,31 @@ const renderPage = (data) => {
 	renderLanguages(data.languages);
 };
 
+const parseCareerData = (jsonText) => {
+	try {
+		return JSON.parse(jsonText);
+	} catch (originalError) {
+		// Fallback: tolerate trailing commas in arrays/objects from manual edits.
+		const sanitized = jsonText.replace(/,\s*([}\]])/g, "$1");
+
+		try {
+			console.warn("JSON com virgula sobrando detectado. Aplicando correção automatica.");
+			return JSON.parse(sanitized);
+		} catch {
+			throw originalError;
+		}
+	}
+};
+
 fetch(DATA_URL)
 	.then((response) => {
 		if (!response.ok) {
 			throw new Error("Nao foi possivel carregar o JSON.");
 		}
 
-		return response.json();
+		return response.text();
 	})
+	.then(parseCareerData)
 	.then(renderPage)
 	.catch((error) => {
 		const main = document.getElementById("conteudo-principal");
