@@ -1,79 +1,114 @@
 {
   "seo": {
-    "title": "Sarah Lima | Mapa de Carreira em Tecnologia",
-    "description": "Mapa de carreira de Sarah Lima, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
-    "author": "Sarah Lima",
+    "title": "Kauan Almeida | Mapa de Carreira em Tecnologia",
+    "description": "Mapa de carreira de Kauan Almeida, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
+    "author": "Kauan Almeida",
     "canonicalUrl": "https://exemplo.com/mapa-de-carreira/"
   },
   "profile": {
-    "name": "Sarah Lima",
-    "headline": "Educacao, Web e Gestao de TI",
+    "name": "Kauan Almeida",
+    "headline": "Dados, Business Intelligence e Tecnologia",
     "photo": "assets/images/profile.jpg",
-    "photoAlt": "Foto profissional de Sarah Lima",
-    "summary": "Tenho experiencia em desenvolvimento web, educacao e gestao de tecnologia. Participei de projetos que transformaram ideias em solucoes digitais e agora organizo meu mapa de carreira com foco em aprendizagem continua, colaboracao e impacto profissional.",
+    "photoAlt": "Foto profissional de Kauan Almeida",
+    "summary": "Estudante de Ciência da Computação com interesse em dados, tecnologia e resolução de problemas. Busco desenvolver soluções orientadas por dados, combinando aprendizado contínuo, pensamento analítico e colaboração para gerar impacto por meio da tecnologia.",
     "cvUrl": "#"
   },
   "contacts": [
     {
-      "label": "sarah.lima@example.com",
-      "url": "mailto:sarah.lima@example.com"
+      "label": "kauanmangueira2@gmail.com",
+      "url": "mailto:kauanmangueira2@gmail.com"
     },
     {
-      "label": "linkedin.com/in/sarahlima",
-      "url": "https://www.linkedin.com/in/sarahlima"
+      "label": "linkedin.com/in/kauan-m-almeida",
+      "url": "https://www.linkedin.com/in/kauan-m-almeida/"
     },
     {
-      "label": "github.com/sarahlima",
-      "url": "https://github.com/sarahlima"
+      "label": "github.com/kauanmangueira2-ux",
+      "url": "https://github.com/kauanmangueira2-ux"
     }
   ],
   "careerSteps": [
     {
-      "title": "Desenvolvedora Junior",
-      "description": "Consolidar fundamentos de desenvolvimento web, versionamento, acessibilidade, logica de programacao e boas praticas de comunicacao em equipe.",
+      "title": "Analista de Dados Júnior",
+      "description": "Quero iniciar minha carreira na área de dados, transformando informações em insights que auxiliem na tomada de decisões. Meu objetivo é desenvolver uma base sólida em análise de dados, estatística, visualização e ferramentas de Business Intelligence, participando de projetos que gerem valor para empresas e pessoas. Busco aprender continuamente e evoluir tanto tecnicamente quanto profissionalmente.",
       "softSkills": [
-        "Comunicacao clara para pedir ajuda e registrar aprendizados.",
-        "Organizacao para estudar, praticar e acompanhar tarefas.",
-        "Curiosidade para investigar problemas e testar solucoes."
+        "Comunicação clara para apresentar análises e tirar dúvidas com a equipe.",
+        "Organização para documentar processos e acompanhar demandas.",
+        "Curiosidade para investigar dados e identificar padrões.",
+        "Atenção aos detalhes para evitar erros em relatórios e indicadores.",
+        "Proatividade para buscar conhecimento e aprender novas ferramentas."
       ],
       "roadmap": [
-        "HTML semantico",
-        "CSS responsivo",
-        "JavaScript",
-        "Git e GitHub",
-        "Acessibilidade"
+        "Excel",
+        "SQL",
+        "Power BI",
+        "Estatística Básica",
+        "Python para Dados",
+        "Git/GitHub",
+        "Visualização de Dados"
       ]
     },
     {
-      "title": "Desenvolvedora Pleno",
-      "description": "Atuar com mais autonomia, participar de decisoes tecnicas e entregar funcionalidades com qualidade, testes e documentacao.",
+      "title": "Analista de Dados Pleno",
+      "description": "Após adquirir experiência, desejo atuar em análises mais complexas, auxiliando equipes e gestores na tomada de decisões estratégicas. Quero aprofundar meus conhecimentos em modelagem de dados, automação e métricas de negócio, gerando insights que contribuam para o crescimento das organizações.",
       "softSkills": [
-        "Responsabilidade sobre entregas e prazos combinados.",
-        "Colaboracao em revisoes de codigo e planejamento.",
-        "Capacidade de explicar escolhas tecnicas para diferentes publicos."
+        "Pensamento analítico para transformar dados em informações relevantes.",
+        "Comunicação objetiva para explicar resultados a públicos técnicos e não técnicos.",
+        "Colaboração para trabalhar com diferentes áreas da empresa.",
+        "Gestão de prioridades para lidar com múltiplas demandas simultaneamente.",
+        "Autonomia para conduzir análises e propor melhorias."
       ],
       "roadmap": [
-        "React",
-        "Node.js",
-        "APIs REST",
-        "Testes automatizados",
-        "Banco de dados"
+        "SQL Avançado",
+        "Power BI Avançado",
+        "Storytelling com Dados",
+        "Modelagem de Dados",
+        "ETL",
+        "Python para Análise",
+        "Indicadores de Negócio"
+        
       ]
     },
     {
-      "title": "Lideranca tecnica",
-      "description": "Contribuir para padroes de arquitetura, orientar pessoas em desenvolvimento e apoiar a tomada de decisao tecnica com base em dados e contexto.",
+      "title": "Especialista em Business Intelligence (BI)",
+      "description": "Quero me tornar referência na transformação de dados em conhecimento estratégico, desenvolvendo dashboards, relatórios e soluções que apoiem decisões de alto impacto. Busco unir conhecimento técnico e visão de negócio para gerar resultados por meio dos dados.",
       "softSkills": [
-        "Mentoria com escuta ativa e feedback construtivo.",
-        "Priorizacao entre impacto, custo, risco e aprendizado.",
-        "Visao sistemica sobre produto, pessoas e tecnologia."
+        "Visão de negócio para conectar dados aos objetivos da organização.",
+        "Capacidade de influência para defender ideias baseadas em evidências.",
+        "Comunicação estratégica para apresentar análises a gestores e lideranças.",
+        "Resolução de problemas para identificar oportunidades de melhoria.",
+        "Adaptabilidade para acompanhar mudanças em tecnologias e processos."
       ],
       "roadmap": [
-        "Arquitetura de software",
-        "Cloud",
-        "Observabilidade",
-        "Seguranca"
+        "Data Warehouse",
+        "Engenharia de Dados (Fundamentos)",
+        "Governança de Dados",
+        "Cloud para Dados",
+        "Banco de Dados Avançado",
+        "Power BI Expert",  
+        "Python Avançado"
       ]
+    },
+     {
+      "title": "Head de Dados / Analytics Manager",
+      "description": "No longo prazo, desejo liderar equipes e estratégias orientadas por dados, ajudando empresas a tomar decisões mais inteligentes e eficientes. Quero unir análise, tecnologia e gestão para gerar impacto nos resultados da organização e no desenvolvimento das pessoas da equipe.",
+      "softSkills": [
+        "Liderança para desenvolver pessoas e fortalecer equipes.",
+        "Comunicação executiva para apresentar estratégias e resultados.",
+        "Tomada de decisão para definir prioridades e direcionamentos.",
+        "Inteligência emocional para lidar com desafios e conflitos.",
+        "Visão estratégica para alinhar dados aos objetivos do negócio."
+      ],
+      "roadmap": [
+        "Gestão de Pessoas",
+        "Liderança de Equipes",
+        "Estratégia de Negócios",
+        "Governança de Dados",
+        "Data Analytics Avançado",
+        "Gestão de Projetos",  
+        "Planejamento Estratégico"
+      ]
+      
     }
   ],
   "skillGroups": [
@@ -82,11 +117,11 @@
       "skills": [
         {
           "name": "HTML, CSS e JavaScript",
-          "level": 85
+          "level": 90
         },
         {
           "name": "React",
-          "level": 70
+          "level": 80
         }
       ]
     },
@@ -95,20 +130,22 @@
       "skills": [
         {
           "name": "Node.js e APIs",
-          "level": 65
+          "level": 80
         },
         {
           "name": "SQL",
-          "level": 60
+          "level": 82
         }
       ]
     }
   ],
   "otherSkills": [
-    "Git",
-    "Comunicacao",
-    "Documentacao",
-    "Code review"
+    "Curiosidade",
+    "Pensamento Analítico",
+    "Documentação",
+    "Trabalho em Equipe",
+    "Solução de Problemas",
+    "Aprendizado Contínuo"
   ],
   "languages": [
     {
@@ -118,10 +155,7 @@
     {
       "name": "Ingles",
       "level": "Tecnico"
-    },
-    {
-      "name": "Espanhol",
-      "level": "Profissional"
     }
+
   ]
 }
